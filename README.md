@@ -1,5 +1,7 @@
 # Fatorial 500.000 (Metodologia de Foster)
 
+# Alunos: Erfon Spanos e Rodrigo Cirino
+
 ## Performance
 * **Input:** 500.000!
 * **Resultado:** Um número com mais de **2,6 milhões de dígitos**.
